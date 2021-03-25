@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5dbc0d4b125e2bc38217daca24dde926/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9f7632a84a8e83e9ec2b8862b95681a9/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:data] /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/56f03c508058800b2327f176a0c93e09/navigation-fragment-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/8321fb4850c6006b8c6361e3ea8e12f4/jetified-fragment-ktx-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/72d2b3cf91935ea7c168716aabf5d191/navigation-ui-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/3f67beee90ac1ff6a2380da1c4431334/navigation-runtime-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/461c69d27b2446f4b514c59171f1d215/jetified-activity-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/6157a34016e5d4709e47fdce73d34860/navigation-common-ktx-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/379437f543a91f51b8bafe9e1dbca5cf/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2a482b7e117209d14d137d29adfea567/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c4d07ab77d8e0949037fec16048fc86f/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d0aa6a8944ce31b799d40a78d73e88e7/jetified-lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/6540278aec819fdb82b63bf4dfb1e0cf/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/0b71a48595aa3b9c9cfdc87b49c17df7/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/418c666189121fd2e45c83674080afe2/navigation-ui-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/b09c507af5ecfedbce6d5ede7f92fd22/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f713c8a52373777522cf3bc371dc2f9/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/841b8bc46bf053ecf601dc5d802bb017/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c377fdb4a8ffc57323c3598cf1e55962/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/22b13eb85b8585f500779ab0c3da8900/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/27c3790e4f4076552e8f3ccfd0d68a2a/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.33-beta] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/0d145174aec1917448790da9181fcc63/jetified-hilt-android-2.33-beta/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d0da55fe3f3e2e2d04103f1cef37e3ed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/95e30a748ba3eaa98220f50dfd3c1d52/navigation-fragment-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7e9d99b3200b883dcd9dcce7a520e4d4/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/19619665625988cb0bcb3fae11d87705/fragment-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/fbd263b51b40c9cea6467d93ee99d345/navigation-runtime-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/11a66390537e7248d4882e3e4abc1161/jetified-activity-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f219f46f23dedbde396197a3b57cae49/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7d4952a27042fc27490f1bba7faf9655/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/872c0c82cbb83c52087abecdb1cda333/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/700082968601a89e39b8e5efb5faeb80/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2aa4aea54050ccbca4c1e1f995884efd/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7e0535d2d492871beb6c5812124666b5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/03ad500583ec197633f63677496d8efa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f0fe46c2648a59160fa7e20498387be3/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ec72e909cc2daa385b8d9e450924f317/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/bafc9f11f5e26e63711ab59ce0f6db0b/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dba6e3484d64f61c55d8864699faa386/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d008aaf4dc7a432617d87422c4a7cb7a/navigation-common-2.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9de0f96b7d584c4e32e661ddc6529ec3/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/cd1bf688ff90dd454d264775430286f9/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/576333f8ab074106d9aedffe3bac15c5/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f2c7525b290bade55427bd7de045f351/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5cb2d714c4fa037661bc3aafcce46da5/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c06180f90db5a0e55d276dd674d0c583/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/e4e40db50b84518c4101631accb963c2/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dae33ce1f068515086f98ec3064a4b57/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7545cea451cc12d4887673707dde87a1/lifecycle-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2bdabb45d0f4106c10e01b109912d817/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/04746107525ac70b4d85d64b50a4d555/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ab3c2192b1a491c94805abf2c2d030ee/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/77821bb1cee088b946aae36b28a2320f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d1ac6a89b418b7fd323a5b2b9b440474/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5a92836f4419b189a3550c5292989482/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/e6d86af82573461bef267a97454e64e4/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/27a58b0e790a66a34feef12d9a97cdd3/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.33] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f9e364378dc040afa8817eb6deb0d8a/jetified-dagger-lint-aar-2.33/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ca6aa8f590b4c2e513ad42f497da054d/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+	package
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:113-147
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:40-25:10
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:3:50-108
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:5:154-65
+	android:name
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:5:171-213
+application
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:222-23:18
+MERGED from [com.google.android.material:material:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/b09c507af5ecfedbce6d5ede7f92fd22/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/b09c507af5ecfedbce6d5ede7f92fd22/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f713c8a52373777522cf3bc371dc2f9/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f713c8a52373777522cf3bc371dc2f9/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/22b13eb85b8585f500779ab0c3da8900/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/22b13eb85b8585f500779ab0c3da8900/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9de0f96b7d584c4e32e661ddc6529ec3/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9de0f96b7d584c4e32e661ddc6529ec3/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/576333f8ab074106d9aedffe3bac15c5/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/576333f8ab074106d9aedffe3bac15c5/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dae33ce1f068515086f98ec3064a4b57/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dae33ce1f068515086f98ec3064a4b57/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9de0f96b7d584c4e32e661ddc6529ec3/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:456-482
+	android:label
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:361-393
+	android:roundIcon
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:402-447
+	android:icon
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:318-352
+	android:allowBackup
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:283-309
+	android:theme
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:535-571
+	android:usesCleartextTraffic
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:491-526
+	android:name
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:15:243-274
+activity#com.android.task.vehicle.MainActivity
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:16:581-22:19
+	android:name
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:16:591-619
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:17:633-21:28
+action#android.intent.action.MAIN
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:18:665-68
+	android:name
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:18:673-714
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:20:735-75
+	android:name
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml:20:745-792
+uses-sdk
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5dbc0d4b125e2bc38217daca24dde926/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5dbc0d4b125e2bc38217daca24dde926/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9f7632a84a8e83e9ec2b8862b95681a9/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9f7632a84a8e83e9ec2b8862b95681a9/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:data] /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:data] /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/56f03c508058800b2327f176a0c93e09/navigation-fragment-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/56f03c508058800b2327f176a0c93e09/navigation-fragment-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/8321fb4850c6006b8c6361e3ea8e12f4/jetified-fragment-ktx-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/8321fb4850c6006b8c6361e3ea8e12f4/jetified-fragment-ktx-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/72d2b3cf91935ea7c168716aabf5d191/navigation-ui-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/72d2b3cf91935ea7c168716aabf5d191/navigation-ui-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/3f67beee90ac1ff6a2380da1c4431334/navigation-runtime-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/3f67beee90ac1ff6a2380da1c4431334/navigation-runtime-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/461c69d27b2446f4b514c59171f1d215/jetified-activity-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/461c69d27b2446f4b514c59171f1d215/jetified-activity-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/6157a34016e5d4709e47fdce73d34860/navigation-common-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/6157a34016e5d4709e47fdce73d34860/navigation-common-ktx-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/379437f543a91f51b8bafe9e1dbca5cf/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/379437f543a91f51b8bafe9e1dbca5cf/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2a482b7e117209d14d137d29adfea567/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2a482b7e117209d14d137d29adfea567/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c4d07ab77d8e0949037fec16048fc86f/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c4d07ab77d8e0949037fec16048fc86f/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d0aa6a8944ce31b799d40a78d73e88e7/jetified-lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d0aa6a8944ce31b799d40a78d73e88e7/jetified-lifecycle-livedata-core-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/6540278aec819fdb82b63bf4dfb1e0cf/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/6540278aec819fdb82b63bf4dfb1e0cf/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/0b71a48595aa3b9c9cfdc87b49c17df7/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/0b71a48595aa3b9c9cfdc87b49c17df7/jetified-lifecycle-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/418c666189121fd2e45c83674080afe2/navigation-ui-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/418c666189121fd2e45c83674080afe2/navigation-ui-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/b09c507af5ecfedbce6d5ede7f92fd22/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/b09c507af5ecfedbce6d5ede7f92fd22/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f713c8a52373777522cf3bc371dc2f9/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f713c8a52373777522cf3bc371dc2f9/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/841b8bc46bf053ecf601dc5d802bb017/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/841b8bc46bf053ecf601dc5d802bb017/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c377fdb4a8ffc57323c3598cf1e55962/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c377fdb4a8ffc57323c3598cf1e55962/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/22b13eb85b8585f500779ab0c3da8900/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/22b13eb85b8585f500779ab0c3da8900/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/27c3790e4f4076552e8f3ccfd0d68a2a/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/27c3790e4f4076552e8f3ccfd0d68a2a/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.33-beta] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/0d145174aec1917448790da9181fcc63/jetified-hilt-android-2.33-beta/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.33-beta] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/0d145174aec1917448790da9181fcc63/jetified-hilt-android-2.33-beta/AndroidManifest.xml:18:3-42
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d0da55fe3f3e2e2d04103f1cef37e3ed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d0da55fe3f3e2e2d04103f1cef37e3ed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/95e30a748ba3eaa98220f50dfd3c1d52/navigation-fragment-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/95e30a748ba3eaa98220f50dfd3c1d52/navigation-fragment-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7e9d99b3200b883dcd9dcce7a520e4d4/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7e9d99b3200b883dcd9dcce7a520e4d4/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/19619665625988cb0bcb3fae11d87705/fragment-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/19619665625988cb0bcb3fae11d87705/fragment-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/fbd263b51b40c9cea6467d93ee99d345/navigation-runtime-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/fbd263b51b40c9cea6467d93ee99d345/navigation-runtime-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/11a66390537e7248d4882e3e4abc1161/jetified-activity-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/11a66390537e7248d4882e3e4abc1161/jetified-activity-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f219f46f23dedbde396197a3b57cae49/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f219f46f23dedbde396197a3b57cae49/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7d4952a27042fc27490f1bba7faf9655/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7d4952a27042fc27490f1bba7faf9655/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/872c0c82cbb83c52087abecdb1cda333/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/872c0c82cbb83c52087abecdb1cda333/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/700082968601a89e39b8e5efb5faeb80/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/700082968601a89e39b8e5efb5faeb80/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2aa4aea54050ccbca4c1e1f995884efd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2aa4aea54050ccbca4c1e1f995884efd/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7e0535d2d492871beb6c5812124666b5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7e0535d2d492871beb6c5812124666b5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/03ad500583ec197633f63677496d8efa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/03ad500583ec197633f63677496d8efa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f0fe46c2648a59160fa7e20498387be3/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f0fe46c2648a59160fa7e20498387be3/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ec72e909cc2daa385b8d9e450924f317/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ec72e909cc2daa385b8d9e450924f317/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/bafc9f11f5e26e63711ab59ce0f6db0b/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/bafc9f11f5e26e63711ab59ce0f6db0b/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dba6e3484d64f61c55d8864699faa386/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dba6e3484d64f61c55d8864699faa386/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d008aaf4dc7a432617d87422c4a7cb7a/navigation-common-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.4] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d008aaf4dc7a432617d87422c4a7cb7a/navigation-common-2.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9de0f96b7d584c4e32e661ddc6529ec3/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/9de0f96b7d584c4e32e661ddc6529ec3/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/cd1bf688ff90dd454d264775430286f9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/cd1bf688ff90dd454d264775430286f9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/576333f8ab074106d9aedffe3bac15c5/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/576333f8ab074106d9aedffe3bac15c5/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f2c7525b290bade55427bd7de045f351/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/f2c7525b290bade55427bd7de045f351/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5cb2d714c4fa037661bc3aafcce46da5/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5cb2d714c4fa037661bc3aafcce46da5/jetified-lifecycle-viewmodel-savedstate-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c06180f90db5a0e55d276dd674d0c583/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/c06180f90db5a0e55d276dd674d0c583/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/e4e40db50b84518c4101631accb963c2/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/e4e40db50b84518c4101631accb963c2/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dae33ce1f068515086f98ec3064a4b57/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/dae33ce1f068515086f98ec3064a4b57/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7545cea451cc12d4887673707dde87a1/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/7545cea451cc12d4887673707dde87a1/lifecycle-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2bdabb45d0f4106c10e01b109912d817/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/2bdabb45d0f4106c10e01b109912d817/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/04746107525ac70b4d85d64b50a4d555/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/04746107525ac70b4d85d64b50a4d555/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ab3c2192b1a491c94805abf2c2d030ee/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ab3c2192b1a491c94805abf2c2d030ee/lifecycle-livedata-core-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/77821bb1cee088b946aae36b28a2320f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/77821bb1cee088b946aae36b28a2320f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d1ac6a89b418b7fd323a5b2b9b440474/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/d1ac6a89b418b7fd323a5b2b9b440474/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5a92836f4419b189a3550c5292989482/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/5a92836f4419b189a3550c5292989482/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/e6d86af82573461bef267a97454e64e4/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/e6d86af82573461bef267a97454e64e4/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/27a58b0e790a66a34feef12d9a97cdd3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/27a58b0e790a66a34feef12d9a97cdd3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.33] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f9e364378dc040afa8817eb6deb0d8a/jetified-dagger-lint-aar-2.33/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.33] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/4f9e364378dc040afa8817eb6deb0d8a/jetified-dagger-lint-aar-2.33/AndroidManifest.xml:18:3-42
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ca6aa8f590b4c2e513ad42f497da054d/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sonal.porwal/.gradle/caches/transforms-2/files-2.1/ca6aa8f590b4c2e513ad42f497da054d/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/AndroidManifest.xml

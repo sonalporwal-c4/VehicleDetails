@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/main_nav_controller"
+    app:startDestination="@id/vehicleFragment">
+
+    <fragment
+        android:id="@+id/vehicleDetailsFragment"
+        android:name="com.android.task.vehicle.views.VehicleDetailsFragment"
+        android:label="VehicleDetailsFragment" >
+        <argument
+            android:name="position"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/vehicleFragment"
+        android:name="com.android.task.vehicle.views.VehicleFragment"
+        android:label="VehicleFragment" >
+        <action
+            android:id="@+id/show_vehicle_details_action"
+            app:destination="@id/vehicleDetailsFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popUpTo="@+id/vehicleFragment" />
+    </fragment>
+</navigation>

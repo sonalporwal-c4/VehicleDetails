@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_vehicle_details.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/fragment_vehicle_details.xml"
+    },
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vehicle_list_item.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/vehicle_list_item.xml"
+    },
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_vehicle.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/fragment_vehicle.xml"
+    },
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/notes_error_layout.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/notes_error_layout.xml"
+    },
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/error_layout.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/vehicle_image_item.xml",
+        "source": "/Users/sonal.porwal/AndroidStudioProjects/Sonal_Porwal/HomeTask/vehicle/app/src/main/res/layout/vehicle_image_item.xml"
+    }
+]
